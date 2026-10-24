@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mumin 👋
 
-<!--
-**iammuminahmed/iammuminahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI/UX Engineer at Tabaarak ICT Solutions, focused on UX research, human-centered design, and creating intuitive digital experiences.
 
-Here are some ideas to get you started:
+### 🎯 Areas of Focus
+- UI/UX Design & Prototyping
+- UX Research & Usability
+- Product Thinking
+- AI & Emerging Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently
+Exploring new ideas, improving my design skills, and building digital experiences that connect user needs with technology.
+
+### 🤝 Let's Connect
+I'm interested in design, technology, and ideas that make digital products more useful and accessible.
+
+---
+
+*Designing with purpose. Building with users in mind.*
